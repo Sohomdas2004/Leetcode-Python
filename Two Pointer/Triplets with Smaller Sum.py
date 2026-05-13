@@ -1,6 +1,7 @@
+#Leetcode 
 class Solution:
     def countTriplets(self, sum, arr):
-        #code herec
+        #code here
         count=0
         arr.sort()
         
